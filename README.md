@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
 ~~~
-Ex.no:1
+Ex.no:2
 Date:
 Name:Abinaya.A.P
 Register No:212225220002
