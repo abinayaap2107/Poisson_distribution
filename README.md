@@ -1,4 +1,11 @@
 # Fitting Poisson  distribution
+~~~
+Ex.no:1
+Date:
+Name:Abinaya.A.P
+Register No:212225220002
+
+~~~
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
